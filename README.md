@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ntollenaar
-- 👀 I’m interested in Falcosecurity 
-- 🌱 I’m currently learning to secure and monitor a Kubernetes environment
 
 <!---
 ntollenaar/ntollenaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
